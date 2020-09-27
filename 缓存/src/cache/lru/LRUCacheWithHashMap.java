@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author 王萍
+ * @author 王佳宁
  * @date 2018/2/28 0028
  * LRU 最近最少使用算法
  */
